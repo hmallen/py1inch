@@ -1,0 +1,7 @@
+/v2.0/approve/calldata,getCallData
+/v2.0/approve/spender,getSpenderAddress
+/v2.0/healthcheck,isLife
+/v2.0/quote,getQuote
+/v2.0/swap,swap
+/v2.0/protocols,getProtocols
+/v2.0/tokens,getTokens
